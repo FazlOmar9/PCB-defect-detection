@@ -37,7 +37,7 @@ Below is an example of the defect detection results:
 
 | Original Image | Detected Defects |
 |---------------|-----------------|
-| ![Original PCB](examples/original.png) | ![Detected PCB](examples/detected.png) |
+| ![Original PCB](examples/original.jpg) | ![Detected PCB](examples/detected.png) |
 
 The detected defects are highlighted with bounding boxes and classified into one of the six defect categories.
 
